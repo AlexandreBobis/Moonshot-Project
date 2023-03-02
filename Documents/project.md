@@ -25,16 +25,16 @@ Improves overall quality of life for elderly people and their families
 
 ![-](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 
-Technical specifications:
+Technical specifications: <br>
 
-🔴 Processor: low-power processor for real-time sensor data processing
-🔴 Sensors: accelerometer, gyroscope, heart rate monitor, GPS receiver, and ambient light sensor
-🔴 Battery: high-capacity, rechargeable battery for extended use
-🔴 Communication: Bluetooth Low Energy (BLE) and Wi-Fi for communication with other devices and servers
-🔴 Operating system: lightweight operating system
-🔴 User interface: user-friendly interface for elderly users
-🔴 Data management: database for storing user data
-🔴 Emergency response: ability to initiate emergency response procedures
+🔴 Processor: low-power processor for real-time sensor data processing <br>
+🔴 Sensors: accelerometer, gyroscope, heart rate monitor, GPS receiver, and ambient light sensor <br>
+🔴 Battery: high-capacity, rechargeable battery for extended use <br>
+🔴 Communication: Bluetooth Low Energy (BLE) and Wi-Fi for communication with other devices and servers <br>
+🔴 Operating system: lightweight operating system <br>
+🔴 User interface: user-friendly interface for elderly users <br>
+🔴 Data management: database for storing user data <br>
+🔴 Emergency response: ability to initiate emergency response procedures <br>
 🔴 Target audience: Elderly people and their caregivers, healthcare providers, emergency services
 
 ![-](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
