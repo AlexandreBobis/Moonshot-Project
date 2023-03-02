@@ -18,12 +18,9 @@ It is a wearable device designed to monitor the health and wellbeing of elderly 
 - GPS tracking
 - Emergency call button
 - Benefits:
-
-![-](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
-
-Allows elderly people to live independently with peace of mind
-Enables caregivers and emergency services to respond quickly in the event of an emergency
-Improves overall quality of life for elderly people and their families
+  - Allows elderly people to live independently with peace of mind
+  - Enables caregivers and emergency services to respond quickly in the event of an emergency
+  - Improves overall quality of life for elderly people and their families
 
 ![-](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 
