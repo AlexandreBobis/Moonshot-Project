@@ -1,10 +1,42 @@
 # I Need Help
 
 My Moonshot Project is called ***`I Need Help`***. <br>
-It is an AI that will be able to detect when an old person needs help and will call the emergency services. <br>
-The goal is to help old people to live longer and better in their own home.<br>
-This "device" would be installed in people who want it. Elderly people usually have a routine, and if this routine is cut, then the device would detect it and send a signal that would allow action to be taken if necessary.<br>
-This kind of device already exists but is not widespread enough for anyone to have access to it.<br>
-I would like to make this device more accessible to the public and make it more affordable.<br>
 
-Because I don't have the necessary skills to make this device, the project is in stand-by<br>
+![-](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
+
+Description: It is a wearable device designed to monitor the health and wellbeing of elderly people. Equipped with sensors that can detect falls, changes in activity levels, and other indicators that may suggest the person needs assistance, this device can help caregivers and emergency services respond quickly in the event of an emergency.
+
+![-](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
+
+Features:
+
+- Fall detection
+- Activity tracking
+- Heart rate monitoring
+- GPS tracking
+- Emergency call button
+- Benefits:
+
+![-](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
+
+Allows elderly people to live independently with peace of mind
+Enables caregivers and emergency services to respond quickly in the event of an emergency
+Improves overall quality of life for elderly people and their families
+
+![-](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
+
+Technical specifications:
+
+🔴 Processor: low-power processor for real-time sensor data processing
+🔴 Sensors: accelerometer, gyroscope, heart rate monitor, GPS receiver, and ambient light sensor
+🔴 Battery: high-capacity, rechargeable battery for extended use
+🔴 Communication: Bluetooth Low Energy (BLE) and Wi-Fi for communication with other devices and servers
+🔴 Operating system: lightweight operating system
+🔴 User interface: user-friendly interface for elderly users
+🔴 Data management: database for storing user data
+🔴 Emergency response: ability to initiate emergency response procedures
+🔴 Target audience: Elderly people and their caregivers, healthcare providers, emergency services
+
+![-](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
+
+Availability: It is expected to be available in the market in the near future, pending approval from relevant regulatory bodies.
