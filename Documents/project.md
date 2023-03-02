@@ -1,14 +1,16 @@
 # I Need Help
 
-My Moonshot Project is called ***`I Need Help`***. <br>
+My Moonshot Project is called ***`I Need Help`***.
 
 ![-](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 
-Description: It is a wearable device designed to monitor the health and wellbeing of elderly people. Equipped with sensors that can detect falls, changes in activity levels, and other indicators that may suggest the person needs assistance, this device can help caregivers and emergency services respond quickly in the event of an emergency.
+### Description
+
+It is a wearable device designed to monitor the health and wellbeing of elderly people. Equipped with sensors that can detect falls, changes in activity levels, and other indicators that may suggest the person needs assistance, this device can help caregivers and emergency services respond quickly in the event of an emergency.
 
 ![-](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 
-Features:
+### Features
 
 - Fall detection
 - Activity tracking
@@ -25,7 +27,7 @@ Improves overall quality of life for elderly people and their families
 
 ![-](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 
-Technical specifications: <br>
+### Technical specifications
 
 🔴 Processor: low-power processor for real-time sensor data processing <br>
 🔴 Sensors: accelerometer, gyroscope, heart rate monitor, GPS receiver, and ambient light sensor <br>
@@ -39,4 +41,6 @@ Technical specifications: <br>
 
 ![-](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 
-Availability: It is expected to be available in the market in the near future, pending approval from relevant regulatory bodies.
+### Availability
+
+It is expected to be available in the market in the near future, pending approval from relevant regulatory bodies.
